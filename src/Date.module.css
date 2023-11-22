@@ -1,0 +1,11 @@
+
+.card {
+    position: absolute;
+    margin: 30px;
+    padding: 10px;
+    background: rgb(139, 119, 167);
+    background: radial-gradient(circle, rgba(139, 119, 167, 1) 0%, rgba(139, 122, 140, 1) 100%);
+    min-width: 400px;
+    max-width: 400px;
+    border: 2px solid black;
+  }
